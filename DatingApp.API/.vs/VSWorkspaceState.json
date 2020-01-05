@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\netcoreapp2.0",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp2.0",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp2.0",
+    "\\obj\\Release",
+    "\\obj\\Release\\netcoreapp2.0"
+  ],
+  "SelectedNode": "\\obj\\Release\\netcoreapp2.0\\DatingApp.API.AssemblyInfo.cs",
+  "PreviewInSolutionExplorer": false
+}
